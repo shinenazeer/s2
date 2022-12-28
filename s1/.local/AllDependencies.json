@@ -20732,11 +20732,11 @@
   },
   "project": {
     "restore": {
-      "projectUniqueName": "s1",
-      "projectName": "s1",
-      "projectPath": "C:\\Users\\Q0048\\OneDrive - Quadance Technologies\\Documents\\UiPath\\s2\\s1\\.local",
+      "projectUniqueName": "s2",
+      "projectName": "s2",
+      "projectPath": "C:\\Users\\Q0048\\OneDrive - Quadance Technologies\\Documents\\UiPath\\s2\\s2\\.local",
       "packagesPath": "C:\\Users\\Q0048\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Q0048\\OneDrive - Quadance Technologies\\Documents\\UiPath\\s2\\s1\\.local"
+      "outputPath": "C:\\Users\\Q0048\\OneDrive - Quadance Technologies\\Documents\\UiPath\\s2\\s2\\.local"
     },
     "frameworks": {
       "net6.0-windows7.0": {
